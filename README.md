@@ -1,10 +1,11 @@
-# Mac-Changer
+# Mac-Changer <br/
 This is my first python project
 
-Required modules: generate_mac,subprocess,argparse,re,time
+**Required modules**: generate_mac,subprocess,argparse,re,time
 
-Example usage: sudo python Mac-Changer.py -i interface_name -m new_mac_address or sudo python Mac-Changer.py -i interface_name -rm
+**Example usage**: `sudo python Mac-Changer.py -i interface_name -m new_mac_address` **or** `sudo python Mac-Changer.py -i interface_name -rm`
 
--i, --interface: Enter a interface
--m, --mac_address: Enter a mac address
--rm , --random_mac_address: Create a random mac address
+**Parameters:**<br>
+`-i, --interface: Enter a interface`<br>
+`-m, --mac_address: Enter a mac address`<br>
+`-rm , --random_mac_address: Create a random mac address`<br>
