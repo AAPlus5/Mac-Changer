@@ -1,5 +1,5 @@
 # Mac-Changer
-Mac-Changer with python
+This is my first python project
 
 Required modules: generate_mac,subprocess,argparse,re,time
 
